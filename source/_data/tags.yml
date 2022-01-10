@@ -1,0 +1,20 @@
+travel:
+  name: travel
+  description: Travel
+  cover: assets/images/travel.jpg
+thoughts:
+  name: thoughts
+  description: Thoughts
+  cover: assets/images/thoughts.jpg
+random:
+  name: random
+  description: Random
+  cover: assets/images/random.jpg
+review:
+  name: guide
+  description: Guide
+  cover: assets/images/guide.jpg
+review:
+  name: review
+  description: Review
+  cover: assets/images/review.jpg

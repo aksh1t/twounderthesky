@@ -1,0 +1,22 @@
+akshat:
+  username: akshat
+  name: Akshat Patel
+  location: Bengaluru, India
+  url_full: False
+  url: False
+  bio: Akshat is ...
+  picture: assets/images/akshat.jpg
+  twitter: _akshatpatel
+  instagram: rgb_engrams
+  cover: assets/images/akshat-cover.jpg
+kesha:
+  username: kesha
+  name: Kesha Shah
+  location: Bengaluru, India
+  url_full: False
+  url: False
+  bio: Kesha is ...
+  picture: assets/images/kesha.jpg
+  twitter: False
+  instagram: False
+  cover: assets/images/kesha-cover.jpg
