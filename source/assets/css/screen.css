@@ -29,8 +29,7 @@ production stylesheet in assets/built/screen.css
 @import "global.css";
 
 body {
-    /*background: #f4f8fb;*/
-    background: #212122;
+    background: #f4f8fb;
 }
 
 .img {
@@ -165,7 +164,7 @@ body {
 }
 
 .site-logo {
-    max-height: 45px;
+    max-height: 150px;
 }
 
 .site-description {
@@ -198,8 +197,8 @@ body {
     justify-content: space-between;
     align-items: flex-start;
     overflow-y: hidden;
-    height: 40px;
-    font-size: 1.2rem;
+    height: 60px;
+    font-size: 2.0rem;
 }
 
 .site-nav-left {
