@@ -22,7 +22,9 @@ I am this crazy weird person who loves to go to random hills, rivers, lakes, bea
 
 Since I was young, my parents took me to a lot of places. From the start, I have always loved the feeling of being surrounded by nature! Being close to nature refreshes my soul and makes me more humble. 
 
-I enjoy going to solo trips where I can be in nature, meet random people, learn about different cultures and of course explore local food! Hiking is one of my passions. I have gone to large number of treks in South India and few in the Himalayas.
+I enjoy going on solo trips where I can be in nature, meet random people, learn about different cultures and of course explore local food! 
+
+Hiking is one of my passions. I have gone to large number of treks in South India and few in the Himalayas.
 
 Beach, sound of waves and a good book is my favorite place to be!
 
