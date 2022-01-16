@@ -4,7 +4,7 @@ akshat:
   location: Bengaluru, India
   url_full: False
   url: False
-  bio: Akshat is ...
+  bio: False
   picture: assets/images/akshat.jpg
   twitter: _akshatpatel
   instagram: rgb_engrams
@@ -15,8 +15,19 @@ kesha:
   location: Bengaluru, India
   url_full: False
   url: False
-  bio: Kesha is ...
+  bio: False
   picture: assets/images/kesha.jpg
   twitter: False
   instagram: False
   cover: assets/images/kesha-cover.jpg
+ka:
+  username: kesha_akshat
+  name: Kesha & Akshat
+  location: Bengaluru, India
+  url_full: False
+  url: False
+  bio: This post has been written by the both of us. Usually, Kesha thinks of the content and the topics to write and Akshat takes care of the pictures.
+  picture: assets/images/kesha_akshat.jpg
+  twitter: False
+  instagram: False
+  cover: assets/images/kesha_akshat-cover.jpg

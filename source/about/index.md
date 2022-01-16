@@ -1,17 +1,14 @@
 ---
 layout: page
 current: about
-title: About
+title: About Us
 navigation: true
-logo: 'assets/images/ghost.png'
+cover:  assets/images/akshat_and_kesha.jpg
 class: page-template
 subclass: 'post page'
 ---
 
-Ghost is professional publishing platform designed for modern journalism. This is a demo site of a basic Ghost install to give you a general sense of what a new Ghost site looks like when set up for the first time.
+We (Kesha & Akshat) are a crazy couple who love to travel! We like to go and explore offbeat places which showcase nature's serenity and beauty. We are currently based out of Bangalore and both of us work as Software Engineers in remote friendly companies! This allows us to take longer trips and still work at the same time. Aah... remote work, such an exciting concept!!
 
-> If you'd like to set up a site like this for yourself, head over to [Ghost.org](https://ghost.org/) and start a free 14 day trial to give Ghost a try!
+This blog is our way to try and remember the journeys that we make, and share our learnings along the way. In addition to travel, we might also write about other random topics which come to our mind!
 
-If you're a developer: Ghost is a completely open source (MIT) Node.js application built on a JSON API with an Ember.js admin client. It works with MySQL and SQLite, and is publicly available [on Github](https://github.com/TryGhost/ghost).
-
-If you need help with using Ghost, you'll find a ton of useful articles on [our knowledgebase](https://help.ghost.org/), as well as extensive [developer documentation](https://docs.ghost.org/).
