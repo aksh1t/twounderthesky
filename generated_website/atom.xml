@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> - Articles</title>
+    <description>A travel blog by &lt;b&gt;Kesha&lt;/b&gt; &amp; &lt;b&gt;Akshat&lt;/b&gt;</description>
+    <link>
+    http://localhost:4000</link>
+    
+      
+      <item>
+        <title>Being in the Himalayas</title>
+        
+          <description>&lt;p&gt;I got an opportunity to go for a trek - Everest Base Camp (via Gokyo lakes) in April 2018. Although we couldn’t complete it because of various reasons including health issues, we did spend 11 days surrounded by mountains. I thought of sharing my experience of life in the Himalayas.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Mon, 23 Apr 2018 13:30:00 +0530</pubDate>
+        <link>
+        http://localhost:4000/being-in-the-himalayas</link>
+        <guid isPermaLink="true">http://localhost:4000/being-in-the-himalayas</guid>
+      </item>
+      
+    
+  </channel>
+</rss>
