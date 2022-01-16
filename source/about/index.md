@@ -16,6 +16,8 @@ This blog is our way to try and remember the journeys that we make and share our
 
 ### About Kesha!
 
+<img src="/assets/images/kesha-solo-4.jpg" alt="Kesha" width="80%">
+
 I am this crazy weird person who loves to go to random hills, rivers, lakes, beaches (basically any quiet natural location) and climb trees I see along the way. If I come across a waterfall, I have to jump and take a dip! Trespassing through beautiful landscapes and not getting caught is my secret superpower (that's why I love India!)
 
 Since I was young, my parents took me to a lot of places. From the start, I have always loved the feeling of being surrounded by nature! Being close to nature refreshes my soul and makes me more humble. 
@@ -25,6 +27,8 @@ I enjoy going to solo trips where I can be in nature, meet random people, learn 
 Beach, sound of waves and a good book is my favorite place to be!
 
 ### About Akshat!
+
+<img src="/assets/images/akshat-solo-4.jpg" alt="Akshat" width="80%">
 
 I've always been this very curious person at heart, and nothing piques my curiosity more than the wonders that nature has to offer. I love to learn about birds, animals, insects and trees as much as I can. Not surprisingly, I'm a huge fan of nature documentaries and an even bigger fan of going out in nature myself!
 
